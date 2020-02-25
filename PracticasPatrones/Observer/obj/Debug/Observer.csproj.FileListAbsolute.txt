@@ -1,0 +1,6 @@
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Observer\bin\Debug\Observer.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Observer\bin\Debug\Observer.pdb
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Observer\obj\Debug\Observer.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Observer\obj\Debug\Observer.pdb

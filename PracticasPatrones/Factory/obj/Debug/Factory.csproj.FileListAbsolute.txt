@@ -1,0 +1,12 @@
+C:\Users\joel.siliceo\source\repos\Factory\bin\Debug\Factory.dll
+C:\Users\joel.siliceo\source\repos\Factory\bin\Debug\Factory.pdb
+C:\Users\joel.siliceo\source\repos\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\Factory\obj\Debug\Factory.dll
+C:\Users\joel.siliceo\source\repos\Factory\obj\Debug\Factory.pdb
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Factory\bin\Debug\Factory.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Factory\bin\Debug\Factory.pdb
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Factory\obj\Debug\Factory.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Factory\obj\Debug\Factory.pdb

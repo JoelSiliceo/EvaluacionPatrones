@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F50CCF83-9909-41AB-9CDA-3A8A5D2CE7F6}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Patrones</RootNamespace>
+    <AssemblyName>Patrones</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractFactory\GenerarPedido.cs" />
+    <Compile Include="AbstractFactory\IGenerarPedido.cs" />
+    <Compile Include="Adaptador\IObtenedorSucursales.cs" />
+    <Compile Include="Adaptador\ObtenedorSucursales.cs" />
+    <Compile Include="Bridge\IPedidos.cs" />
+    <Compile Include="Bridge\Pedidos.cs" />
+    <Compile Include="CadenaResponsabilidades\ConceptoCompra.cs" />
+    <Compile Include="CadenaResponsabilidades\IConceptoCompra.cs" />
+    <Compile Include="Decorador\CXP.cs" />
+    <Compile Include="Decorador\ICXP.cs" />
+    <Compile Include="Ejecutar.cs" />
+    <Compile Include="ExecAbstractFactory.cs" />
+    <Compile Include="ExecAdaptador.cs" />
+    <Compile Include="ExecBridge.cs" />
+    <Compile Include="ExecCadean.cs" />
+    <Compile Include="ExecDecorador.cs" />
+    <Compile Include="ExecFactory.cs" />
+    <Compile Include="ExecObserver.cs" />
+    <Compile Include="ExecStrategy.cs" />
+    <Compile Include="Factory\IProcesadorPedidos.cs" />
+    <Compile Include="Factory\ProcesadorPedido.cs" />
+    <Compile Include="Observer\IProcesarIntegracion.cs" />
+    <Compile Include="Observer\ProcesarIntegracion.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Strategy\CargadorImagen.cs" />
+    <Compile Include="Strategy\ICargadorImagen.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AbstractFactory\AbstractFactory.csproj">
+      <Project>{e2e84032-e89e-4035-8bf4-74cf83a34d06}</Project>
+      <Name>AbstractFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Adapter\Adapter.csproj">
+      <Project>{d05ee7d5-a265-41ba-b302-8442619669fa}</Project>
+      <Name>Adapter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bridge\Bridge.csproj">
+      <Project>{58d97fc5-e2b5-4842-9cbf-7a2c63d9d53e}</Project>
+      <Name>Bridge</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CadenaResponsabilidades\CadenaResponsabilidades.csproj">
+      <Project>{4243ff8f-cf02-4259-9aee-71706ba7d110}</Project>
+      <Name>CadenaResponsabilidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Decorador\Decorador.csproj">
+      <Project>{f8b95da0-285b-4a98-94db-5e9501578e61}</Project>
+      <Name>Decorador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Factory\Factory.csproj">
+      <Project>{3e0d1e6e-d71e-46b5-9585-7379564e2ff8}</Project>
+      <Name>Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Observer\Observer.csproj">
+      <Project>{d7109402-e0bc-4ec4-8c2c-71b8fd4611bc}</Project>
+      <Name>Observer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Strategy\Strategy.csproj">
+      <Project>{3b1c3703-ab4b-402d-8b8a-59048f6e8464}</Project>
+      <Name>Strategy</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

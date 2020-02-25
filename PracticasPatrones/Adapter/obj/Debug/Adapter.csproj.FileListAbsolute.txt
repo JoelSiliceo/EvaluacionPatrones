@@ -1,0 +1,9 @@
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Adapter\bin\Debug\Adapter.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Adapter\bin\Debug\Adapter.pdb
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Adapter\obj\Debug\Adapter.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Adapter\obj\Debug\Adapter.pdb
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Adapter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Adapter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Adapter\obj\Debug\Adapter.csproj.CopyComplete

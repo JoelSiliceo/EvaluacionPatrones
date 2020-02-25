@@ -1,0 +1,6 @@
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\AbstractFactory\obj\Debug\AbstractFactory.pdb

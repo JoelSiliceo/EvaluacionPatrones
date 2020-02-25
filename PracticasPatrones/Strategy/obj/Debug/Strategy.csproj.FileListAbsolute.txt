@@ -1,0 +1,6 @@
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Strategy\bin\Debug\Strategy.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Strategy\bin\Debug\Strategy.pdb
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Strategy\obj\Debug\Strategy.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Strategy\obj\Debug\Strategy.pdb

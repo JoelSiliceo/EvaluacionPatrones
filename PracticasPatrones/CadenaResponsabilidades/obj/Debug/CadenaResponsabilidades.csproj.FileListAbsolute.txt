@@ -1,0 +1,6 @@
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\CadenaResponsabilidades\bin\Debug\CadenaResponsabilidades.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\CadenaResponsabilidades\bin\Debug\CadenaResponsabilidades.pdb
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\CadenaResponsabilidades\obj\Debug\CadenaResponsabilidades.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\CadenaResponsabilidades\obj\Debug\CadenaResponsabilidades.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\CadenaResponsabilidades\obj\Debug\CadenaResponsabilidades.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\CadenaResponsabilidades\obj\Debug\CadenaResponsabilidades.pdb

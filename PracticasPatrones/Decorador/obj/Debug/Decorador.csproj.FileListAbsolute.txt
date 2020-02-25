@@ -1,0 +1,6 @@
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Decorador\bin\Debug\Decorador.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Decorador\bin\Debug\Decorador.pdb
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Decorador\obj\Debug\Decorador.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Decorador\obj\Debug\Decorador.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Decorador\obj\Debug\Decorador.dll
+C:\Users\joel.siliceo\source\repos\PracticasPatrones\Decorador\obj\Debug\Decorador.pdb
